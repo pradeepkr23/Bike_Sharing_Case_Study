@@ -26,26 +26,28 @@
 - Year 2019 has the maximum amount of demand in shared bikes compared to 2018
 - Median value of demand on a non-holiday day is more compared to a holiday.
 - Average and peak count of demand on clear cloud day is maximum followed by mist cloud and light snow.
-
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- atemp and temp have a very high correlation and hence either of any one variabel can be dropped.
+- Categorical variable converted to dummy variabel creation
+- Based on correaltion, p-values, VIF & RFE, final varibels selected.
+- Selected vaiabels: 8 independent variables and 1 derrived independent variable
+- Model R^2:79.2, adjusted R^2:0.788
+- Final variables considered for model: Year, Workingday, windspeed, summer, fall, winter, mist cloud, light snow and ratio Cas_reg.
+- Final model variables p-value:0.00 and VIF:3.8(Max.)
+- From the model, variabels such as fall, year and winter plays a dominant role in deciding the demand of the shared bikes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Muti Linear Regresssion
+- Autoviz for EDA
+- RFE and VIF & p-values for variabel selection
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+
 
 
 ## Contact
