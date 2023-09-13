@@ -20,12 +20,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- •	Month wise demand of share bikes stands minimum in the month of February
-•	Median value of demand of shared bikes is maximum in fall season followed by summer, winter and spring.
-•	Peak demand of shared bikes is in the month of September.
-•	Year 2019 has the maximum amount of demand in shared bikes compared to 2018
-•	Median value of demand on a non-holiday day is more compared to a holiday.
-•	Average and peak count of demand on clear cloud day is maximum followed by mist cloud and light snow.
+- Month wise demand of share bikes stands minimum in the month of February
+- Median value of demand of shared bikes is maximum in fall season followed by summer, winter and spring.
+- Peak demand of shared bikes is in the month of September.
+- Year 2019 has the maximum amount of demand in shared bikes compared to 2018
+- Median value of demand on a non-holiday day is more compared to a holiday.
+- Average and peak count of demand on clear cloud day is maximum followed by mist cloud and light snow.
 
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
